@@ -1,0 +1,63 @@
+C:\Users\fager\source\repos\Mobile_Repairs_M_S\Mobile_Repairs_M_S\bin\Debug\Mobile_Repairs_M_S.exe.config
+C:\Users\fager\source\repos\Mobile_Repairs_M_S\Mobile_Repairs_M_S\bin\Debug\Mobile_Repairs_M_S.exe
+C:\Users\fager\source\repos\Mobile_Repairs_M_S\Mobile_Repairs_M_S\bin\Debug\Mobile_Repairs_M_S.pdb
+C:\Users\fager\source\repos\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.AssemblyReference.cache
+C:\Users\fager\source\repos\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Login.resources
+C:\Users\fager\source\repos\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Properties.Resources.resources
+C:\Users\fager\source\repos\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.GenerateResource.cache
+C:\Users\fager\source\repos\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.CoreCompileInputs.cache
+C:\Users\fager\source\repos\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.exe
+C:\Users\fager\source\repos\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.pdb
+C:\Users\fager\source\repos\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Customers.resources
+C:\Users\fager\source\repos\Mobile_Repairs_M_S\Mobile_Repairs_M_S\bin\Debug\Guna.UI2.dll
+C:\Users\fager\source\repos\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Repairs.resources
+C:\Users\fager\source\repos\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Spares.resources
+C:\Users\fager\source\repos\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.CopyComplete
+C:\Users\IT\Desktop\widows\try\mohamed mostafa\Mobile_Repairs_M_S\Mobile_Repairs_M_S\bin\Debug\Mobile_Repairs_M_S.exe.config
+C:\Users\IT\Desktop\widows\try\mohamed mostafa\Mobile_Repairs_M_S\Mobile_Repairs_M_S\bin\Debug\Mobile_Repairs_M_S.exe
+C:\Users\IT\Desktop\widows\try\mohamed mostafa\Mobile_Repairs_M_S\Mobile_Repairs_M_S\bin\Debug\Mobile_Repairs_M_S.pdb
+C:\Users\IT\Desktop\widows\try\mohamed mostafa\Mobile_Repairs_M_S\Mobile_Repairs_M_S\bin\Debug\Guna.UI2.dll
+C:\Users\IT\Desktop\widows\try\mohamed mostafa\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\widows\try\mohamed mostafa\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Desktop\widows\try\mohamed mostafa\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Customers.resources
+C:\Users\IT\Desktop\widows\try\mohamed mostafa\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Login.resources
+C:\Users\IT\Desktop\widows\try\mohamed mostafa\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Properties.Resources.resources
+C:\Users\IT\Desktop\widows\try\mohamed mostafa\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Repairs.resources
+C:\Users\IT\Desktop\widows\try\mohamed mostafa\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Spares.resources
+C:\Users\IT\Desktop\widows\try\mohamed mostafa\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\widows\try\mohamed mostafa\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\widows\try\mohamed mostafa\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.CopyComplete
+C:\Users\IT\Desktop\widows\try\mohamed mostafa\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.exe
+C:\Users\IT\Desktop\widows\try\mohamed mostafa\Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.pdb
+C:\Users\IT\Desktop\widows\try\Ahmed Khaled\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\bin\Debug\Mobile_Repairs_M_S.exe.config
+C:\Users\IT\Desktop\widows\try\Ahmed Khaled\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\bin\Debug\Mobile_Repairs_M_S.exe
+C:\Users\IT\Desktop\widows\try\Ahmed Khaled\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\bin\Debug\Mobile_Repairs_M_S.pdb
+C:\Users\IT\Desktop\widows\try\Ahmed Khaled\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\bin\Debug\Guna.UI2.dll
+C:\Users\IT\Desktop\widows\try\Ahmed Khaled\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\widows\try\Ahmed Khaled\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Desktop\widows\try\Ahmed Khaled\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Customers.resources
+C:\Users\IT\Desktop\widows\try\Ahmed Khaled\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Login.resources
+C:\Users\IT\Desktop\widows\try\Ahmed Khaled\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Properties.Resources.resources
+C:\Users\IT\Desktop\widows\try\Ahmed Khaled\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Repairs.resources
+C:\Users\IT\Desktop\widows\try\Ahmed Khaled\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Spares.resources
+C:\Users\IT\Desktop\widows\try\Ahmed Khaled\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\widows\try\Ahmed Khaled\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\widows\try\Ahmed Khaled\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.CopyComplete
+C:\Users\IT\Desktop\widows\try\Ahmed Khaled\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.exe
+C:\Users\IT\Desktop\widows\try\Ahmed Khaled\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.pdb
+F:\windows tasks\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\bin\Debug\Mobile_Repairs_M_S.exe.config
+F:\windows tasks\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\bin\Debug\Mobile_Repairs_M_S.exe
+F:\windows tasks\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\bin\Debug\Mobile_Repairs_M_S.pdb
+F:\windows tasks\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\bin\Debug\Guna.UI2.dll
+F:\windows tasks\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.AssemblyReference.cache
+F:\windows tasks\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.SuggestedBindingRedirects.cache
+F:\windows tasks\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Customers.resources
+F:\windows tasks\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Login.resources
+F:\windows tasks\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Properties.Resources.resources
+F:\windows tasks\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Repairs.resources
+F:\windows tasks\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Spares.resources
+F:\windows tasks\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.GenerateResource.cache
+F:\windows tasks\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.CoreCompileInputs.cache
+F:\windows tasks\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.CopyComplete
+F:\windows tasks\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.exe
+F:\windows tasks\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.pdb
