@@ -229,5 +229,10 @@ namespace Mobile_Repairs_M_S
             obj.Show();
             this.Hide();
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
