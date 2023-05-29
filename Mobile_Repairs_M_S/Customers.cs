@@ -39,7 +39,7 @@ namespace Mobile_Repairs_M_S
             {
                 if (CustNameTb.Text == "" || CustPhoneTb.Text=="" || CustAddTb.Text=="")
                 {
-                    MessageBox.Show("Missing Data");
+                    MessageBox.Show("Missing data");
                 }
                 else
                 {
