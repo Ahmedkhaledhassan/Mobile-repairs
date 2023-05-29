@@ -111,7 +111,7 @@ namespace Mobile_Repairs_M_S
             {
                 if (Key == 0)
                 {
-                    MessageBox.Show("Select a customer");
+                    MessageBox.Show("Select customer");
                 }
                 else
                 {
