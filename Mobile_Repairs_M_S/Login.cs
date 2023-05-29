@@ -55,5 +55,10 @@ namespace Mobile_Repairs_M_S
         {
 
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

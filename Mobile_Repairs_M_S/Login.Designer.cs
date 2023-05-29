@@ -122,6 +122,7 @@ namespace Mobile_Repairs_M_S
             this.label3.Size = new System.Drawing.Size(75, 18);
             this.label3.TabIndex = 4;
             this.label3.Text = "Password";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // LoginBtn
             // 
