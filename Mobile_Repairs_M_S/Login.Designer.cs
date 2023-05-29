@@ -144,7 +144,7 @@ namespace Mobile_Repairs_M_S
             this.ResetLabel.AutoSize = true;
             this.ResetLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ResetLabel.ForeColor = System.Drawing.Color.Black;
-            this.ResetLabel.Location = new System.Drawing.Point(391, 324);
+            this.ResetLabel.Location = new System.Drawing.Point(391, 326);
             this.ResetLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.ResetLabel.Name = "ResetLabel";
             this.ResetLabel.Size = new System.Drawing.Size(52, 20);
