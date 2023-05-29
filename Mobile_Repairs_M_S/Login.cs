@@ -45,5 +45,10 @@ namespace Mobile_Repairs_M_S
         {
 
         }
+
+        private void UserNameTb_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
