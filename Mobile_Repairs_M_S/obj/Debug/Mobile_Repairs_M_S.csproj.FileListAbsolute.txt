@@ -61,3 +61,19 @@ F:\windows tasks\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mob
 F:\windows tasks\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.CopyComplete
 F:\windows tasks\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.exe
 F:\windows tasks\Ahmed_Kaled_Mobile_Repairs_M_S\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.pdb
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Electronic-repairs\Mobile_Repairs_M_S\bin\Debug\Mobile_Repairs_M_S.exe.config
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Electronic-repairs\Mobile_Repairs_M_S\bin\Debug\Mobile_Repairs_M_S.exe
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Electronic-repairs\Mobile_Repairs_M_S\bin\Debug\Mobile_Repairs_M_S.pdb
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Electronic-repairs\Mobile_Repairs_M_S\bin\Debug\Guna.UI2.dll
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Electronic-repairs\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.AssemblyReference.cache
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Electronic-repairs\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Electronic-repairs\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Customers.resources
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Electronic-repairs\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Login.resources
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Electronic-repairs\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Properties.Resources.resources
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Electronic-repairs\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Repairs.resources
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Electronic-repairs\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.Spares.resources
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Electronic-repairs\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.GenerateResource.cache
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Electronic-repairs\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.CoreCompileInputs.cache
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Electronic-repairs\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.csproj.CopyComplete
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Electronic-repairs\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.exe
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Electronic-repairs\Mobile_Repairs_M_S\obj\Debug\Mobile_Repairs_M_S.pdb
