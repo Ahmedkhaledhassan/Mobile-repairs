@@ -182,7 +182,7 @@ namespace Mobile_Repairs_M_S
             {
                 if (Key == 0)
                 {
-                    MessageBox.Show("Select a Repair");
+                    MessageBox.Show("Select Repair");
                 }
                 else
                 {
