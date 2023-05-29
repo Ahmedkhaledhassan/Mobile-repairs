@@ -121,7 +121,7 @@
   <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wgAADsIBFShKgAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAEXnSURBVHhe7Z0L
+        wQAADsEBuJFr7QAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAEXnSURBVHhe7Z0L
         lFxlma47hEu6O8EjgjhnqSPoUZCL4+XgWQfHUZjRQUm6Gghe5qLM6IyjMBHi2B1vhzUKBEa5IyiKwRBI
         ECUBRFEIKpDuTgIkKo23xHAL1yTkNgMucJ/9V3aG6srb3fur//+r9u56nrWeRVbTvff/ddV+v69q79rd
         AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -426,7 +426,7 @@
   <data name="RepairesPic.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EAAACxABrSO9dQAAsE1JREFUeF7tvQe4JVWV/s25oW/3zff27b7dtwMoIlkdARGHpOiQgzIjtjCNgg0o
+        DwAACw8BkvkDpQAAsE1JREFUeF7tvQe4JVWV/s25oW/3zff27b7dtwMoIlkdARGHpOiQgzIjtjCNgg0o
         SSRIkpyHpECLCA2SGiSITZAGGgQkmkZQUWQMICgiICpG1O/9bfYqd9WpOqeqTp12xv+3nmedqrNr105r
         rXeH2mGFfwT99re/rRl7p7bSr3/96xr80ksvLZf4oOWZP+jFF1+sGXunttLyluELL7xQM/ZObad/VP6e
         f/755ZbH5U4/+tGPOn/84x875h5+/PHH25bhJ554ouN//ud/Oj13wYqvwz+unJSvWpg3WHG2LT7yYvn6
@@ -1184,7 +1184,7 @@
   <data name="CustomersPic.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wgAADsIBFShKgAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAC+GSURBVHhe7d0J
+        wQAADsEBuJFr7QAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAC+GSURBVHhe7d0J
         +HZjgcfx177vS0IlUTRSTUW6qlFTTaWkRalp00I7DdMqUUwyEg1Jm4iEUSJaJKZBEVlKqLQQ2bIk+zLz
         +9GrP+/vff7bOee+z3m+3+v6dHUd7/t/7/M8z/9+tnPuM4eIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiI
         iIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiI
