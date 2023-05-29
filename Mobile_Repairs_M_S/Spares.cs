@@ -91,7 +91,7 @@ namespace Mobile_Repairs_M_S
             {
                 if (PartNameTb.Text == "" || PartCostTb.Text == "")
                 {
-                    MessageBox.Show("Missing Data");
+                    MessageBox.Show("Missing data");
                 }
                 else
                 {
