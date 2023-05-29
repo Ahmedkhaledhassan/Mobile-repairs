@@ -84,7 +84,7 @@ namespace Mobile_Repairs_M_S
             {
                 if (CustomerCb.SelectedIndex == -1 || SpareCb.SelectedIndex == -1 || DevModelTb.Text == "" || DevNameTb.Text == "" || PhoneNumTb.Text == "" || ProblemTb.Text == "" || SpareCostTb.Text == "" || RepCostTb.Text == "")
                 {
-                    MessageBox.Show("Missing Data");
+                    MessageBox.Show("Missing some Data");
                 }
                 else
                 {
